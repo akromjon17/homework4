@@ -90,7 +90,6 @@ class SecondScreen extends StatelessWidget {
             // Display user information in a list
             // ...
 
-            // Buttons for fetching more users and storing data
             ElevatedButton(
               onPressed: () {
                 // Fetch more users from API
